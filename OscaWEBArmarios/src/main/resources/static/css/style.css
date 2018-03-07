@@ -1,0 +1,73 @@
+.filterable {
+    margin-top: 15px;
+}
+.filterable .panel-heading .pull-right {
+    margin-top: -20px;
+}
+.filterable .filters input[disabled] {
+    background-color: transparent;
+    border: none;
+    cursor: auto;
+    box-shadow: none;
+    padding: 0;
+    height: auto;
+}
+.filterable .filters input[disabled]::-webkit-input-placeholder {
+    color: #333;
+}
+.filterable .filters input[disabled]::-moz-placeholder {
+    color: #333;
+}
+.filterable .filters input[disabled]:-ms-input-placeholder {
+    color: #333;
+}
+
+
+#matrixdiv{
+    border: 1px solid blue;
+    text-align: center;
+}
+
+#matrix {
+    border: 1px solid black;
+    margin: 0 auto;
+    padding: 0.2%;
+}
+
+#matrix tr, td {
+    border: 1px solid black;
+    padding: 0.3%;
+}
+
+#matrix button {
+    border: none;
+    font-family: helvetica;
+    font-weight: bold;
+}
+
+#b1, #b3 {
+    background-color: transparent;
+}
+
+#b1:hover, #b3:hover {
+    background-color: gray;
+    width:110%;
+    height:110%;'
+}
+
+#b2 {
+    background-color: rgba(15, 138, 15, 0.5);
+}
+
+#b2:hover {
+    background-color: rgb(15, 138, 15);
+}
+
+
+#b4 {
+    background-color: rgba(189, 15, 15, 0.6);
+}
+
+#b4:hover {
+    background-color: rgb(189, 15, 15);
+}

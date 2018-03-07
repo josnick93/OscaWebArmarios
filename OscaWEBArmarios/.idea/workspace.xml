@@ -1,0 +1,2044 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="OscaWEBArmarios:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/Entrada/EntradaManual/EntradaUbicacion/EntradaSeleccionUbicacionFinal.jsp" line="771" />
+    <bookmark url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/Salida/SalidaManual/SalidaSeleccionUbicacion.jsp" />
+    <bookmark url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/Salida/SalidaManual/SalidaSeleccionUbicacion.jsp" line="642" />
+    <bookmark url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/Entrada/EntradaManual/NuevaUbicacion/NuevaUbicacion.jsp" />
+    <bookmark url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/Entrada/EntradaMaterial/EntradaPedido/EntradaArticuloPedido.jsp" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="17d24915-e845-4931-81cb-fb9b56576d48" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/OscaArmarios$ProductoTest.coverage" NAME="ProductoTest Coverage Results" MODIFIED="1505381856593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>webService.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="OscaArmarios" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="BusquedaArticulosConsulta.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Consulta/Articulo/Operaciones/BusquedaArticulosConsulta.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="40" column="26" lean-forward="false" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConsultaEntabladoCajaVaciaMedida.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Consulta/Entablado/ConsultaEntabladoCajaVaciaMedida.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-68">
+              <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConsultaSeleccionEntablado.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Consulta/Entablado/ConsultaSeleccionEntablado.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="127">
+              <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ListarEntablados.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Consulta/Entablado/Operaciones/ListarEntablados.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConsultaMaterialArmario.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Consulta/Lanzaderas/ConsultaMaterialArmario.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="22" column="51" lean-forward="false" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConsultaMaterialArmarioDetalle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Consulta/Lanzaderas/ConsultaMaterialArmarioDetalle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="32" column="58" lean-forward="false" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="58" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ListarLanzaderas.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Consulta/Lanzaderas/Operaciones/ListarLanzaderas.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="36" column="42" lean-forward="false" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConsultaEliminarCajasVacias.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Consulta/EliminarCajasVacias/ConsultaEliminarCajasVacias.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="37" column="61" lean-forward="true" selection-start-line="37" selection-start-column="61" selection-end-line="37" selection-end-column="61" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NuevaUbicacion.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/Entrada/EntradaManual/NuevaUbicacion/NuevaUbicacion.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="890" column="65" lean-forward="true" selection-start-line="890" selection-start-column="65" selection-end-line="890" selection-end-column="65" />
+              <folding>
+                <marker date="1520351237581" expanded="true" signature="28061:28073" ph="..." />
+                <marker date="1520351237581" expanded="true" signature="28174:28186" ph="..." />
+                <marker date="1520351237581" expanded="true" signature="34619:34751" ph="..." />
+                <marker date="1520351237581" expanded="true" signature="34964:35094" ph="..." />
+                <marker date="1520351237581" expanded="true" signature="37694:37823" ph="..." />
+                <marker date="1520351237581" expanded="true" signature="38085:38214" ph="..." />
+                <marker date="1520351237581" expanded="true" signature="38428:38539" ph="..." />
+                <marker date="1520351237581" expanded="true" signature="38650:38787" ph="..." />
+                <marker date="1520351237581" expanded="true" signature="39001:39112" ph="..." />
+                <marker date="1520351237581" expanded="true" signature="39223:39362" ph="..." />
+                <marker date="1520351237581" expanded="true" signature="42938:43050" ph="..." />
+                <marker date="1520351237581" expanded="true" signature="44211:44325" ph="..." />
+                <marker date="1520351237581" expanded="true" signature="47419:47548" ph="..." />
+                <marker date="1520351237581" expanded="true" signature="49891:50020" ph="..." />
+                <marker date="1520351237581" expanded="true" signature="51827:51956" ph="..." />
+                <marker date="1520351237581" expanded="true" signature="54401:54530" ph="..." />
+                <marker date="1520351237581" expanded="true" signature="58319:58448" ph="..." />
+                <marker date="1520351237581" expanded="true" signature="59943:60072" ph="..." />
+                <marker date="1520351237581" expanded="true" signature="60832:60961" ph="..." />
+                <marker date="1520351237581" expanded="true" signature="63190:63308" ph="..." />
+                <marker date="1520351237581" expanded="true" signature="63419:63565" ph="..." />
+                <marker date="1520351237581" expanded="true" signature="65936:66054" ph="..." />
+                <marker date="1520351237581" expanded="true" signature="66165:66313" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PedidoNuevaUbicacion.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/Entrada/EntradaMaterial/EntradaPedido/NuevaUbicacion/PedidoNuevaUbicacion.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1368">
+              <caret line="977" column="81" lean-forward="false" selection-start-line="977" selection-start-column="81" selection-end-line="977" selection-end-column="81" />
+              <folding>
+                <marker date="1520351287179" expanded="true" signature="28901:28913" ph="..." />
+                <marker date="1520351287179" expanded="true" signature="29014:29026" ph="..." />
+                <marker date="1520351287179" expanded="true" signature="35577:35709" ph="..." />
+                <marker date="1520351287179" expanded="true" signature="35922:36052" ph="..." />
+                <marker date="1520351287179" expanded="true" signature="38652:38781" ph="..." />
+                <marker date="1520351287179" expanded="true" signature="39043:39172" ph="..." />
+                <marker date="1520351287179" expanded="true" signature="39386:39497" ph="..." />
+                <marker date="1520351287179" expanded="true" signature="39608:39745" ph="..." />
+                <marker date="1520351287179" expanded="true" signature="39959:40070" ph="..." />
+                <marker date="1520351287179" expanded="true" signature="40181:40320" ph="..." />
+                <marker date="1520351287179" expanded="true" signature="43860:43972" ph="..." />
+                <marker date="1520351287179" expanded="true" signature="45108:45222" ph="..." />
+                <marker date="1520351287179" expanded="true" signature="48254:48383" ph="..." />
+                <marker date="1520351287179" expanded="true" signature="50726:50855" ph="..." />
+                <marker date="1520351287179" expanded="true" signature="52662:52791" ph="..." />
+                <marker date="1520351287179" expanded="true" signature="55236:55365" ph="..." />
+                <marker date="1520351287179" expanded="true" signature="59154:59283" ph="..." />
+                <marker date="1520351287179" expanded="true" signature="60778:60907" ph="..." />
+                <marker date="1520351287179" expanded="true" signature="61667:61796" ph="..." />
+                <marker date="1520351287179" expanded="true" signature="64025:64143" ph="..." />
+                <marker date="1520351287179" expanded="true" signature="64254:64400" ph="..." />
+                <marker date="1520351287179" expanded="true" signature="66771:66889" ph="..." />
+                <marker date="1520351287179" expanded="true" signature="67000:67148" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="HTML File" />
+        <option value="JUnit4 Test Class" />
+        <option value="Interface" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>errorNa</find>
+      <find>PedidoSalidaArticulo</find>
+      <find>ves a la</find>
+      <find>ves a l</find>
+      <find>ves a</find>
+      <find>Ves a</find>
+      <find>Ves a la lanzadera para completar</find>
+      <find>v</find>
+      <find>ves</find>
+      <find>ve</find>
+      <find>V</find>
+      <find>Ve</find>
+      <find>Ves</find>
+      <find>NuevaUbicacion</find>
+      <find>EntradaPedidoArticuloTipoCajaNuevaUbi</find>
+      <find>actualizarCantidadEntablado</find>
+      <find>cambiarUbicacionLinea</find>
+      <find>actualizarLineasDePedido</find>
+      <find>existenLineasSinMarcarEnLanzadera</find>
+      <find>CANTIDAD</find>
+      <find>addCustomMaterial</find>
+      <find>dialogoSeleccionCantidadDivision</find>
+      <find>cantidad</find>
+      <find>botonCantidadParcial</find>
+      <find>getLineasSinMarcar</find>
+      <find>VoidResponseHandlerInterceptor</find>
+      <find>Servicio Web NAVosion 8========D</find>
+      <find>errorNav</find>
+      <find>obtenerLineaPedido</find>
+      <find>José Ángel Caudevílla Casaús</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>#324891</replace>
+      <replace>\n @JsonView(View.Summary.class)</replace>
+      <replace>;\n @JsonView(View.Summary.class)</replace>
+      <replace>José Ángel Caudevílla Casaús</replace>
+      <replace>getLineasSinMarcar</replace>
+      <replace>BigDecimal</replace>
+      <replace />
+      <replace>BigInteger</replace>
+      <replace>./wsdl</replace>
+      <replace>./wsdl/</replace>
+      <replace>./wsdl//</replace>
+      <replace>http://oscasist-nav.oscasistemas.net:8047/DynamicsNAV100CU08_OSCASIST_NAVUSER/WS/OSCA%20SISTEMAS</replace>
+      <replace>entradaAgrupado</replace>
+      <replace>botonRegularizar</replace>
+      <replace>eliminarCajaVaciaModal</replace>
+      <replace>eliminarCajaVacia</replace>
+      <replace>${lineaPedido.qtyOutstanding}</replace>
+      <replace>192.168.2.8</replace>
+      <replace>&amp;cerrar=0</replace>
+      <replace>OscaArmarios/</replace>
+      <replace>jose</replace>
+      <replace>José Ángel Caudevilla Casaus</replace>
+      <replace>borrarCajaVacia</replace>
+      <replace>${caja.id_caja}</replace>
+      <replace>ArticleTable</replace>
+      <replace>ShelfsTable</replace>
+      <replace>c</replace>
+      <replace>UbicationTable</replace>
+      <replace>CrearUbicacion</replace>
+      <replace>Servicio Wen NAVision</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>file:/$PROJECT_DIR$/../../../../Port\u00e1til1/Desktop/</dir>
+      <dir>C:\Users\Portátil1\Google Drive\Osca sistemas\OscaWEBArmarios\src\main\java\com\dynamics\webServices\Bin_WS</dir>
+      <dir>C:\Users\Portátil1\Google Drive\Osca sistemas\OscaWEBArmarios\src\main\java\com\dynamics\webServices\Warehouse_Activity_Header_WS</dir>
+      <dir>C:\Users\Portátil1\Google Drive\Osca sistemas\OscaWEBArmarios\src\main\java</dir>
+      <dir>C:\Users\Portátil1\Google Drive\Osca sistemas\OscaWEBArmariosWebBrowserOpener</dir>
+      <dir>C:\Users\Portátil1\Google Drive\Osca sistemas\OscaWEBArmariosINICIO SALIDA ARTICULO</dir>
+      <dir>C:\Users\Portátil1\Google Drive\Osca sistemas\OscaWEBArmarios\src\main\java\com\dynamics\webServices</dir>
+      <dir>C:\Users\Portátil1\Google Drive\Osca sistemas\OscaWEBArmarios\.idea</dir>
+      <dir>C:\Users\Portátil1\Google Drive\Osca sistemas\OscaWEBArmarios</dir>
+    </dirStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/Entrada/EntradaManual/EntradaSeleccionCantidadArticulo.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Salida/SalidaPicking/SalidaPicking/SalidaPickingArticulo.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/Salida/SalidaManual/SalidaArticulo.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Entrada/EntradaMaterial/EntradaPedido/EntradaArticuloPedido.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/ConfiguradorArticulos.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/Salida/SalidaManual/SalidaSeleccionUbicacion.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Entrada/EntradaMaterial/EntradaPedido/Operaciones/AddMaterialPedido.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Entrada/EntradaMaterial/EntradaPedido/Operaciones/AddMaterialPedidoDivision.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Entrada/EntradaMaterial/EntradaPedido/Operaciones/AddMaterialPedidoMedida.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Entrada/EntradaMaterial/EntradaPedido/ReUbicar/Operacion/CrearUbicacionReubicar.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Entrada/EntradaMaterial/EntradaPedidoAgrupado/CrearUbicacion/Operaciones/CrearUbicacionPedidoAgrupado.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/oscasistemas/utils/PedidoUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Salida/SalidaPicking/SalidaPicking/Operaciones/DiscountMaterialPedido.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Entrada/EntradaMaterial/Operaciones/ListarPedidosEntrada.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/Entrada/EntradaMaterial/EntradaPedido/EntradaArticuloPedido.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Entrada/EntradaMaterial/EntradaPedido/Operaciones/AddCustomMaterialPedido.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-servlet.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/Salida/SalidaPicking/SalidaPicking/PedidoSalidaArticulo.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Salida/SalidaPicking/SalidaPicking/Operaciones/DiscountCustomMaterialPedido.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/Consulta/Articulo/ConsultaBusquedaArticulo.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Entrada/EntradaMaterial/EntradaPedidoAgrupado/Operaciones/AddMaterialPedidoAgrupado.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/oscasistemas/DAO/CajaEntabladoDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/oscasistemas/service/LanzaderaService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Entrada/EntradaMaterial/Utils/EntradaPedidoUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Entrada/EntradaMaterial/EntradaPedido/CrearUbicacion/EntradaPedidoArticuloTipoCajaNuevaUbi.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Entrada/EntradaMaterial/EntradaPedido/CrearUbicacion/EntradaArticuloPedidoSeleccionNuevaUbicacionFinal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Entrada/EntradaMaterial/EntradaPedidoAgrupado/CrearUbicacion/EntradaPedidoAgrupadoSugerirUbicacion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Entrada/EntradaMaterial/EntradaPedido/CrearUbicacion/Operacion/CrearUbicacionArticuloPedido.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Entrada/EntradaMaterial/EntradaPedido/ReUbicar/EntradaArticuloPedidoReubicarSugerirUbicacionFinal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Entrada/EntradaManual/EntradaBusquedaArticulo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Entrada/EntradaManual/EntradaSeleccionCantidadArticulo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Entrada/EntradaManual/EntradaSeleccionarUbicacion/EntradaSeleccionUbicacionFinalMedida.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Entrada/EntradaManual/EntradaSeleccionarUbicacion/Operaciones/AddMaterialMedida.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Entrada/EntradaManual/EntradaSeleccionarUbicacion/Operaciones/AddMaterial.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Entrada/EntradaManual/EntradaNuevaUbicacion/EntradaSeleccionNuevaUbicacionFinalMedida.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Entrada/EntradaManual/EntradaNuevaUbicacion/EntradaSeleccionNuevaUbicacionFinal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Entrada/EntradaManual/EntradaNuevaUbicacion/Operaciones/CrearUbicacionMedida.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Entrada/EntradaManual/EntradaNuevaUbicacion/Operaciones/CrearUbicacion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Entrada/EntradaManual/EntradaNuevaUbicacion/Operaciones/Utils/CrearUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Entrada/EntradaManual/EntradaSugerirUbicacion/EntradaSugerirUbicacionFinal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Entrada/EntradaManual/EntradaSugerirUbicacion/EntradaSugerirUbicacionFinalMedida.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Salida/SalidaPicking/Operaciones/ListarPedidosSalida.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Salida/SalidaPicking/Utils/SalidaUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Salida/SalidaManual/Operaciones/DescontarMaterialMedida.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Salida/SalidaManual/Operaciones/DescontarMaterial.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Consulta/Articulo/Operaciones/BusquedaArticulosConsulta.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Consulta/Entablado/ConsultaEntablado.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Consulta/Entablado/Operaciones/ListarEntablados.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Consulta/EliminarCajasVacias/ConsultaEliminarCajasVacias.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/Entrada/EntradaManual/NuevaUbicacion/NuevaUbicacion.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/Entrada/EntradaMaterial/EntradaPedido/NuevaUbicacion/PedidoNuevaUbicacion.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="54" />
+    <option name="y" value="-8" />
+    <option name="width" value="1320" />
+    <option name="height" value="784" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Gradle</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 8Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Javadoc issuesJava</id>
+          </State>
+          <State>
+            <id>Probable bugsGradle</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring DataSpring</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Java 8Java language level migration aidsJava</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OscaArmarios" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OscaWEBArmarios" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="OscaWEBArmarios">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="oscaarmarios" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/lib/jsch-0.1.54.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Armarios" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.oscasistemas.controller.Salida.SalidaPicking.SalidaPicking.Operaciones" />
+      <recent name="org.oscasistemas.controller.Entrada.EntradaMaterial.EntradaPedido.Operaciones" />
+      <recent name="org.oscasistemas.controller.Salida.SalidaManual.Operaciones" />
+      <recent name="org.oscasistemas.controller.Entrada.EntradaManual.EntradaSeleccionarUbicacion.Operaciones" />
+      <recent name="webService" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Portátil1\Google Drive\Osca sistemas\OscaWEBArmarios\src\main\java\org\oscasistemas\controller" />
+      <recent name="C:\Users\Portátil1\Google Drive\Osca sistemas\OscaWEBArmarios\src\main\webapp\WEB-INF\pages\Entrada\EntradaMaterial\EntradaPedidoAgrupado\CrearUbicacion" />
+      <recent name="C:\Users\Portátil1\Google Drive\Osca sistemas\OscaWEBArmarios\src\main\webapp\WEB-INF\pages\Entrada\EntradaMaterial\EntradaPedidoAgrupado\ReUbicar" />
+      <recent name="C:\Users\Portátil1\Google Drive\Osca sistemas\OscaWEBArmarios\src\main\java\org\oscasistemas\controller\Entrada\EntradaMaterial\EntradaPedidoAgrupado" />
+      <recent name="C:\Users\Portátil1\Google Drive\Osca sistemas\OscaWEBArmarios\src\main\webapp\WEB-INF\pages\Tarea\" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Portátil1\Google Drive\Osca sistemas\OscaWEBArmarios\src\main\webapp\WEB-INF\pages" />
+      <recent name="C:\Users\Portátil1\Google Drive\Osca sistemas\OscaWEBArmarios\src\main\webapp\WEB-INF\fonts" />
+      <recent name="C:\Users\Portátil1\Google Drive\Osca sistemas\OscaWEBArmarios\src\main\webapp\WEB-INF\pages\Tarea\Entrada\SugerirUbicacion" />
+      <recent name="C:\Users\Portátil1\Google Drive\Osca sistemas\OscaWEBArmarios\src\main\webapp\WEB-INF\pages\Tarea\Entrada\NuevaUbicacion" />
+      <recent name="C:\Users\Portátil1\Google Drive\Osca sistemas\OscaWEBArmarios\src\main\webapp\WEB-INF\pages\Tarea\Salida" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JBoss Server.Lanzar Servidor">
+    <configuration default="false" name="WS_Whse_Worksheet_Line.readTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="webService.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="OscaWEBArmarios" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="webService" />
+      <option name="MAIN_CLASS_NAME" value="webService.WS_Whse_Worksheet_Line" />
+      <option name="METHOD_NAME" value="readTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="Warehouse_Activity_Line_WS.updateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="webService.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="OscaWEBArmarios" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="webService" />
+      <option name="MAIN_CLASS_NAME" value="webService.Warehouse_Activity_Line_WS" />
+      <option name="METHOD_NAME" value="updateTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="ConexionRemotaTest.abrirRemoto" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Armarios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="OscaWEBArmarios" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="Armarios" />
+      <option name="MAIN_CLASS_NAME" value="Armarios.ConexionRemotaTest" />
+      <option name="METHOD_NAME" value="abrirRemoto" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="Warehouse_Activity_Line_WS.readTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="webService.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="OscaWEBArmarios" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="webService" />
+      <option name="MAIN_CLASS_NAME" value="webService.Warehouse_Activity_Line_WS" />
+      <option name="METHOD_NAME" value="readTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings />
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JBossConfiguration" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="SERVER" value="" />
+        <option name="BINDING_SET_NAME" value="" />
+        <option name="DOMAIN" value="false" />
+        <option name="SERVER_GROUP" value="" />
+        <option name="USERNAME" value="" />
+        <option name="PASSWORD" value="" />
+      </server-settings>
+      <predefined_log_file id="JBoss" enabled="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="OscaWEBArmarios" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="false" name="Unnamed" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="false" name="Lanzar Servidor" type="JBossConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="JBoss 10.2.0.Final" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="OscaWEBArmarios:war">
+          <settings />
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="SERVER" />
+        <option name="BINDING_SET_NAME" value="" />
+        <option name="DOMAIN" value="false" />
+        <option name="SERVER_GROUP" value="main-server-group" />
+        <option name="USERNAME" value="josnick" />
+        <option name="PASSWORD" value="misurnrn1993" />
+      </server-settings>
+      <predefined_log_file id="JBoss" enabled="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55415" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="false" />
+          <option name="SCRIPT" value="C:/Servidores/wildfly-10.1.0.Final/bin/standalone.bat" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="OscaWEBArmarios:war" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="false" name="Bin_Content_WS.readTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="webService.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="OscaWEBArmarios" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="webService" />
+      <option name="MAIN_CLASS_NAME" value="webService.Bin_Content_WS" />
+      <option name="METHOD_NAME" value="readTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <list size="7">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Unnamed" />
+      <item index="1" class="java.lang.String" itemvalue="JBoss Server.Lanzar Servidor" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.Bin_Content_WS.readTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.WS_Whse_Worksheet_Line.readTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.Warehouse_Activity_Line_WS.updateTest" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.ConexionRemotaTest.abrirRemoto" />
+      <item index="6" class="java.lang.String" itemvalue="JUnit.Warehouse_Activity_Line_WS.readTest" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.Warehouse_Activity_Line_WS.readTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.Warehouse_Activity_Line_WS.updateTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.ConexionRemotaTest.abrirRemoto" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.WS_Whse_Worksheet_Line.readTest" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17d24915-e845-4931-81cb-fb9b56576d48" name="Default" comment="" />
+      <created>1496731294249</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1496731294249</updated>
+      <workItem from="1496731311459" duration="22431000" />
+      <workItem from="1496814340557" duration="11826000" />
+      <workItem from="1496826591561" duration="19470000" />
+      <workItem from="1497246418419" duration="2955000" />
+      <workItem from="1497251817402" duration="10008000" />
+      <workItem from="1497332675758" duration="29220000" />
+      <workItem from="1497418978793" duration="29241000" />
+      <workItem from="1497592360756" duration="4677000" />
+      <workItem from="1497851332247" duration="12871000" />
+      <workItem from="1497937732689" duration="11322000" />
+      <workItem from="1498024058248" duration="9202000" />
+      <workItem from="1498047865384" duration="6535000" />
+      <workItem from="1498055045408" duration="2398000" />
+      <workItem from="1498197000743" duration="26575000" />
+      <workItem from="1498456076960" duration="21639000" />
+      <workItem from="1498542308299" duration="28934000" />
+      <workItem from="1498628614340" duration="30000000" />
+      <workItem from="1498803807940" duration="19180000" />
+      <workItem from="1498826254510" duration="5198000" />
+      <workItem from="1499060737797" duration="9596000" />
+      <workItem from="1499079807977" duration="8614000" />
+      <workItem from="1499153943449" duration="15588000" />
+      <workItem from="1499178533809" duration="2166000" />
+      <workItem from="1499234015530" duration="23841000" />
+      <workItem from="1499406478480" duration="17087000" />
+      <workItem from="1499424804377" duration="11263000" />
+      <workItem from="1499665491311" duration="28480000" />
+      <workItem from="1499751928054" duration="25647000" />
+      <workItem from="1499838446647" duration="4981000" />
+      <workItem from="1499861548298" duration="2060000" />
+      <workItem from="1500011790243" duration="25295000" />
+      <workItem from="1500270981255" duration="23315000" />
+      <workItem from="1500357025579" duration="22625000" />
+      <workItem from="1500389125775" duration="93000" />
+      <workItem from="1500455495073" duration="3132000" />
+      <workItem from="1500460966544" duration="2596000" />
+      <workItem from="1500470764959" duration="5411000" />
+      <workItem from="1500616224364" duration="453000" />
+      <workItem from="1500616749904" duration="12863000" />
+      <workItem from="1500634531105" duration="6099000" />
+      <workItem from="1500876114169" duration="7870000" />
+      <workItem from="1500961852914" duration="10609000" />
+      <workItem from="1500976608384" duration="13467000" />
+      <workItem from="1501048389497" duration="12227000" />
+      <workItem from="1501220974960" duration="20723000" />
+      <workItem from="1501478502988" duration="25463000" />
+      <workItem from="1501564701186" duration="24255000" />
+      <workItem from="1501651392498" duration="15355000" />
+      <workItem from="1501671306073" duration="4180000" />
+      <workItem from="1501738157725" duration="17744000" />
+      <workItem from="1503899947059" duration="9906000" />
+      <workItem from="1503911457630" duration="14848000" />
+      <workItem from="1503986365813" duration="10470000" />
+      <workItem from="1504072839292" duration="6878000" />
+      <workItem from="1504082164443" duration="3396000" />
+      <workItem from="1504085694709" duration="12061000" />
+      <workItem from="1504505695050" duration="2365000" />
+      <workItem from="1504515069460" duration="6225000" />
+      <workItem from="1504590393755" duration="24309000" />
+      <workItem from="1504851645469" duration="18657000" />
+      <workItem from="1505283175356" duration="15089000" />
+      <workItem from="1505368616518" duration="19048000" />
+      <workItem from="1505455931397" duration="7345000" />
+      <workItem from="1505713905330" duration="2188000" />
+      <workItem from="1505724990638" duration="6460000" />
+      <workItem from="1505740389830" duration="4922000" />
+      <workItem from="1505808017613" duration="9434000" />
+      <workItem from="1505888712339" duration="4952000" />
+      <workItem from="1505915237222" duration="4124000" />
+      <workItem from="1506059981533" duration="20551000" />
+      <workItem from="1506086271077" duration="4632000" />
+      <workItem from="1506318865805" duration="1933000" />
+      <workItem from="1506321502046" duration="19279000" />
+      <workItem from="1506405589788" duration="2545000" />
+      <workItem from="1506408413497" duration="8272000" />
+      <workItem from="1506418682061" duration="7261000" />
+      <workItem from="1506430144334" duration="8258000" />
+      <workItem from="1506577798933" duration="9100000" />
+      <workItem from="1506604098828" duration="4335000" />
+      <workItem from="1506664659294" duration="4370000" />
+      <workItem from="1506686293246" duration="2404000" />
+      <workItem from="1506923438845" duration="26940000" />
+      <workItem from="1507009810444" duration="21610000" />
+      <workItem from="1507034896800" duration="155000" />
+      <workItem from="1507036038988" duration="2476000" />
+      <workItem from="1507184403955" duration="2109000" />
+      <workItem from="1507186935771" duration="18277000" />
+      <workItem from="1507269148502" duration="1011000" />
+      <workItem from="1507270243724" duration="15961000" />
+      <workItem from="1507287989562" duration="9348000" />
+      <workItem from="1507299630521" duration="2454000" />
+      <workItem from="1507614578586" duration="2224000" />
+      <workItem from="1507618008229" duration="14488000" />
+      <workItem from="1507700787166" duration="6578000" />
+      <workItem from="1507715375647" duration="5942000" />
+      <workItem from="1508136725231" duration="2539000" />
+      <workItem from="1508229915724" duration="6890000" />
+      <workItem from="1508245046830" duration="1233000" />
+      <workItem from="1508251123029" duration="1690000" />
+      <workItem from="1508393243591" duration="20274000" />
+      <workItem from="1508738660587" duration="1697000" />
+      <workItem from="1508740514362" duration="1958000" />
+      <workItem from="1508742562609" duration="2431000" />
+      <workItem from="1508745066014" duration="396000" />
+      <workItem from="1508745529855" duration="3875000" />
+      <workItem from="1508750122876" duration="2099000" />
+      <workItem from="1508766918740" duration="3304000" />
+      <workItem from="1508824227611" duration="340000" />
+      <workItem from="1508824730474" duration="2468000" />
+      <workItem from="1508827274485" duration="3996000" />
+      <workItem from="1508832013334" duration="18543000" />
+      <workItem from="1508855889278" duration="1495000" />
+      <workItem from="1508997176937" duration="5822000" />
+      <workItem from="1509004666674" duration="19007000" />
+      <workItem from="1509028666838" duration="1502000" />
+      <workItem from="1509346076185" duration="11597000" />
+      <workItem from="1509361765288" duration="3906000" />
+      <workItem from="1509369028362" duration="4960000" />
+      <workItem from="1509374173327" duration="503000" />
+      <workItem from="1509374723096" duration="356000" />
+      <workItem from="1509376218315" duration="2270000" />
+      <workItem from="1509432617350" duration="2031000" />
+      <workItem from="1509441247843" duration="2064000" />
+      <workItem from="1509444383164" duration="8385000" />
+      <workItem from="1509455821633" duration="612000" />
+      <workItem from="1509457879377" duration="3859000" />
+      <workItem from="1509605768765" duration="11026000" />
+      <workItem from="1509620850909" duration="17024000" />
+      <workItem from="1509723984880" duration="1230000" />
+      <workItem from="1509951420566" duration="7326000" />
+      <workItem from="1509959879148" duration="3005000" />
+      <workItem from="1509963476082" duration="11367000" />
+      <workItem from="1509978416088" duration="5705000" />
+      <workItem from="1510038259323" duration="6748000" />
+      <workItem from="1510046419491" duration="541000" />
+      <workItem from="1510047043920" duration="12149000" />
+      <workItem from="1510068089962" duration="2511000" />
+      <workItem from="1510210527321" duration="1553000" />
+      <workItem from="1510212932556" duration="501000" />
+      <workItem from="1510214478444" duration="13554000" />
+      <workItem from="1510556022222" duration="865000" />
+      <workItem from="1510562295113" duration="12549000" />
+      <workItem from="1510651039866" duration="3541000" />
+      <workItem from="1510654706627" duration="1423000" />
+      <workItem from="1510656206313" duration="13730000" />
+      <workItem from="1510819737999" duration="19602000" />
+      <workItem from="1511160933737" duration="25562000" />
+      <workItem from="1511250853031" duration="19581000" />
+      <workItem from="1511420162518" duration="8206000" />
+      <workItem from="1511448827107" duration="1983000" />
+      <workItem from="1511765891523" duration="9418000" />
+      <workItem from="1511852425382" duration="10158000" />
+      <workItem from="1512025016414" duration="14824000" />
+      <workItem from="1512370130692" duration="14475000" />
+      <workItem from="1512392810044" duration="3711000" />
+      <workItem from="1512399741555" duration="1260000" />
+      <workItem from="1512403270116" duration="62000" />
+      <workItem from="1512461106584" duration="2407000" />
+      <workItem from="1512975080904" duration="15211000" />
+      <workItem from="1513061872632" duration="22249000" />
+      <workItem from="1513234400160" duration="12066000" />
+      <workItem from="1513262586215" duration="11184000" />
+      <workItem from="1513579962547" duration="23858000" />
+      <workItem from="1513666484615" duration="14616000" />
+      <workItem from="1513689390653" duration="3774000" />
+      <workItem from="1513839218043" duration="27460000" />
+      <workItem from="1513952800903" duration="2458000" />
+      <workItem from="1514270387930" duration="2418000" />
+      <workItem from="1514275119985" duration="26190000" />
+      <workItem from="1514356875027" duration="14417000" />
+      <workItem from="1514444125239" duration="6390000" />
+      <workItem from="1514530448574" duration="23519000" />
+      <workItem from="1514628006238" duration="1421000" />
+      <workItem from="1514882062035" duration="5672000" />
+      <workItem from="1514889644645" duration="7730000" />
+      <workItem from="1514971211775" duration="8398000" />
+      <workItem from="1514985398540" duration="1970000" />
+      <workItem from="1515146212234" duration="2542000" />
+      <workItem from="1515400302192" duration="15967000" />
+      <workItem from="1515425193908" duration="9431000" />
+      <workItem from="1515668780842" duration="762000" />
+      <workItem from="1515679808583" duration="5111000" />
+      <workItem from="1516003995154" duration="4308000" />
+      <workItem from="1516090838153" duration="6018000" />
+      <workItem from="1516177200674" duration="612000" />
+      <workItem from="1516263554304" duration="8208000" />
+      <workItem from="1516350035263" duration="10881000" />
+      <workItem from="1516366343331" duration="338000" />
+      <workItem from="1516787841519" duration="2015000" />
+      <workItem from="1516869610652" duration="5993000" />
+      <workItem from="1516955002130" duration="861000" />
+      <workItem from="1517214399639" duration="10838000" />
+      <workItem from="1517230108593" duration="4839000" />
+      <workItem from="1517302003563" duration="1946000" />
+      <workItem from="1517389094873" duration="10984000" />
+      <workItem from="1517473147994" duration="6649000" />
+      <workItem from="1518513982673" duration="16412000" />
+      <workItem from="1518591948263" duration="23446000" />
+      <workItem from="1518678707570" duration="26245000" />
+      <workItem from="1519023184883" duration="22234000" />
+      <workItem from="1519109332320" duration="8532000" />
+      <workItem from="1519196616537" duration="9125000" />
+      <workItem from="1519223717758" duration="5983000" />
+      <workItem from="1519282195997" duration="7039000" />
+      <workItem from="1519290952440" duration="16101000" />
+      <workItem from="1519368685241" duration="24785000" />
+      <workItem from="1519628296372" duration="17088000" />
+      <workItem from="1519714822362" duration="7881000" />
+      <workItem from="1519802971824" duration="12407000" />
+      <workItem from="1519887692214" duration="2760000" />
+      <workItem from="1519974785534" duration="940000" />
+      <workItem from="1519976925962" duration="8022000" />
+      <workItem from="1520233012742" duration="12996000" />
+      <workItem from="1520319268973" duration="11575000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Bin_Content_WS_readTest - 2018.02.26 at 12h 34m 04s.xml">
+      <configuration name="Bin_Content_WS.readTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Bin_Content_WS_readTest - 2018.02.26 at 12h 34m 24s.xml">
+      <configuration name="Bin_Content_WS.readTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Bin_Content_WS_readTest - 2018.02.26 at 12h 34m 45s.xml">
+      <configuration name="Bin_Content_WS.readTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Bin_Content_WS_readTest - 2018.02.26 at 12h 35m 17s.xml">
+      <configuration name="Bin_Content_WS.readTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Bin_Content_WS_readTest - 2018.02.26 at 12h 35m 54s.xml">
+      <configuration name="Bin_Content_WS.readTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Bin_Content_WS_readTest - 2018.02.26 at 12h 36m 44s.xml">
+      <configuration name="Bin_Content_WS.readTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Bin_Content_WS_readTest - 2018.02.26 at 12h 37m 11s.xml">
+      <configuration name="Bin_Content_WS.readTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Bin_Content_WS_readTest - 2018.02.26 at 12h 51m 23s.xml">
+      <configuration name="Bin_Content_WS.readTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Warehouse_Activity_Line_WS_updateTest - 2018.02.19 at 12h 28m 16s.xml">
+      <configuration name="Warehouse_Activity_Line_WS.updateTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Warehouse_Activity_Line_WS_updateTest - 2018.02.19 at 12h 28m 39s.xml">
+      <configuration name="Warehouse_Activity_Line_WS.updateTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2085929000" />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="54" y="-8" width="1320" height="784" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.317757" sideWeight="0.47684675" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31336406" sideWeight="0.4904762" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32718894" sideWeight="0.4904762" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3426791" sideWeight="0.5341786" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.046306506" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15975423" sideWeight="0.4658214" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3271028" sideWeight="0.48401323" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32398754" sideWeight="0.47629547" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3809524" sideWeight="0.7586751" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32872504" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6359375" sideWeight="0.49779493" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20066153" sideWeight="0.24132492" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936507" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24972437" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14057332" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19845645" sideWeight="0.23502304" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39875388" sideWeight="0.48676956" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Dynamic Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917964" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296582" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32718894" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3426791" sideWeight="0.5341786" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.046306506" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6359375" sideWeight="0.49779493" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936507" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Dynamic Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24972437" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14057332" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39875388" sideWeight="0.48676956" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.317757" sideWeight="0.47684675" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31336406" sideWeight="0.4904762" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32718894" sideWeight="0.4904762" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.42549923" sideWeight="0.4658214" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917964" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296582" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3271028" sideWeight="0.48401323" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32398754" sideWeight="0.47629547" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3" sideWeight="0.7586751" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32872504" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20066153" sideWeight="0.24132492" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32718894" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19845645" sideWeight="0.23502304" order="4" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="62" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.vaadin.designer2.intellij.settings.SizePresetsSettingsComponent">
+    <option name="sizePresets">
+      <list>
+        <SizePreset>
+          <option name="caption" value="Phone" />
+          <option name="height" value="568" />
+          <option name="width" value="320" />
+        </SizePreset>
+        <SizePreset>
+          <option name="caption" value="Tablet" />
+          <option name="height" value="1024" />
+          <option name="width" value="768" />
+        </SizePreset>
+        <SizePreset>
+          <option name="caption" value="Desktop" />
+          <option name="height" value="900" />
+          <option name="width" value="1440" />
+        </SizePreset>
+      </list>
+    </option>
+  </component>
+  <component name="designer2.settings">
+    <option name="autodetectServerAddress" value="true" />
+    <option name="serverIp" value="localhost" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Entrada/EntradaMaterial/EntradaPedido/ReUbicar/Operacion/CrearUbicacionReubicar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="332" column="30" lean-forward="false" selection-start-line="332" selection-start-column="17" selection-end-line="332" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Entrada/EntradaMaterial/EntradaPedido/ReUbicar/EntradaArticuloPedidoReubicarTipoCajaSugerirUbi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="40" column="75" lean-forward="false" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Entrada/EntradaMaterial/EntradaSeleccionPedido.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="9" column="42" lean-forward="false" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Entrada/EntradaMaterialHome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="32" column="61" lean-forward="false" selection-start-line="32" selection-start-column="61" selection-end-line="32" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Entrada/EntradaManual/EntradaSeleccionCantidadArticulo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="49" column="22" lean-forward="false" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Entrada/EntradaManual/EntradaSeleccionarUbicacion/EntradaSeleccionUbicacionFinal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="56" column="150" lean-forward="true" selection-start-line="50" selection-start-column="59" selection-end-line="56" selection-end-column="150" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Entrada/EntradaManual/EntradaSeleccionarUbicacion/EntradaSeleccionUbicacionFinalMedida.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="45" column="65" lean-forward="false" selection-start-line="45" selection-start-column="65" selection-end-line="45" selection-end-column="65" />
+          <folding>
+            <marker date="1520330219914" expanded="true" signature="2758:3760" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Entrada/EntradaManual/EntradaSeleccionarUbicacion/Operaciones/AddMaterial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="60" column="17" lean-forward="false" selection-start-line="60" selection-start-column="17" selection-end-line="60" selection-end-column="17" />
+          <folding>
+            <marker date="1520330538117" expanded="true" signature="4603:4787" ph="INSERT INTO historico... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/WebService/WebServicesInit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="58" column="37" lean-forward="false" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Entrada/EntradaManual/EntradaBusquedaArticulo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="21" column="38" lean-forward="false" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Entrada/EntradaManual/EntradaSeleccionarUbicacion/Operaciones/AddMaterialMedida.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="34" column="62" lean-forward="false" selection-start-line="34" selection-start-column="62" selection-end-line="34" selection-end-column="62" />
+          <folding>
+            <marker date="1520330530212" expanded="true" signature="4789:4973" ph="INSERT INTO historico... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Entrada/EntradaManual/Operaciones/ListarArticulosEntrada.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="40" column="26" lean-forward="false" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Entrada/EntradaManual/EntradaNuevaUbicacion/EntradaSeleccionTipoCajaNuevaUbi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="42" column="145" lean-forward="true" selection-start-line="38" selection-start-column="57" selection-end-line="42" selection-end-column="145" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Entrada/EntradaManual/EntradaNuevaUbicacion/EntradaSeleccionNuevaUbicacionFinal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="42" column="20" lean-forward="true" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Entrada/EntradaManual/EntradaNuevaUbicacion/Operaciones/Utils/CrearUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1381">
+          <caret line="56" column="70" lean-forward="true" selection-start-line="56" selection-start-column="70" selection-end-line="56" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1520332073469" expanded="true" signature="2422:2649" ph="INSERT INTO cajas_entablado... " />
+            <marker date="1520332073469" expanded="true" signature="4750:4995" ph="INSERT INTO cajas_entablado_medida... " />
+            <marker date="1520332073469" expanded="true" signature="6990:7174" ph="INSERT INTO historico... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Entrada/EntradaManual/EntradaNuevaUbicacion/Operaciones/CrearUbicacionMedida.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="108" column="31" lean-forward="false" selection-start-line="108" selection-start-column="31" selection-end-line="108" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Entrada/EntradaManual/EntradaNuevaUbicacion/Operaciones/CrearUbicacion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="109" column="35" lean-forward="false" selection-start-line="109" selection-start-column="35" selection-end-line="109" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Entrada/EntradaManual/EntradaSugerirUbicacion/EntradaSeleccionTipoCajaSugerirUbi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="38" column="58" lean-forward="false" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Entrada/EntradaManual/EntradaNuevaUbicacion/EntradaSeleccionNuevaUbicacionFinalMedida.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="77" column="16" lean-forward="false" selection-start-line="77" selection-start-column="16" selection-end-line="77" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Entrada/EntradaManual/EntradaSugerirUbicacion/EntradaSugerirUbicacionFinal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="112" column="87" lean-forward="false" selection-start-line="112" selection-start-column="87" selection-end-line="112" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Entrada/EntradaManual/EntradaSugerirUbicacion/EntradaSugerirUbicacionFinalMedida.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3514">
+          <caret line="130" column="17" lean-forward="true" selection-start-line="130" selection-start-column="17" selection-end-line="130" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Salida/SalidaPicking/SalidaInfoPedido.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="28" column="29" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Salida/SalidaPicking/Operaciones/ListarPedidosSalida.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="47" column="72" lean-forward="false" selection-start-line="47" selection-start-column="66" selection-end-line="47" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Salida/SalidaPicking/SalidaSeleccionPedidoVenta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="23" column="49" lean-forward="false" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Salida/SalidaPicking/SalidaPicking/SalidaPickingArticulo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-553">
+          <caret line="333" column="28" lean-forward="false" selection-start-line="333" selection-start-column="17" selection-end-line="333" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Salida/SalidaPicking/SalidaPicking/Operaciones/DiscountMaterialPedido.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-349">
+          <caret line="68" column="136" lean-forward="true" selection-start-line="61" selection-start-column="34" selection-end-line="68" selection-end-column="136" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Salida/SalidaPicking/SalidaPicking/Operaciones/DiscountCustomMaterialPedido.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-893">
+          <caret line="60" column="39" lean-forward="false" selection-start-line="60" selection-start-column="11" selection-end-line="60" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Salida/SalidaPicking/Utils/SalidaUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="117" column="64" lean-forward="false" selection-start-line="117" selection-start-column="46" selection-end-line="117" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Salida/SalidaPicking/SalidaPickingAgrupado/SalidaPickingArticuloAgrupado.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-400">
+          <caret line="376" column="43" lean-forward="false" selection-start-line="376" selection-start-column="17" selection-end-line="376" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Salida/SalidaPicking/SalidaPickingAgrupado/Operaciones/DiscountMaterialPedidoAgrupado.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="157" column="92" lean-forward="false" selection-start-line="157" selection-start-column="50" selection-end-line="157" selection-end-column="92" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Salida/SalidaManual/SalidaSeleccionUbicacion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2482">
+          <caret line="167" column="41" lean-forward="false" selection-start-line="167" selection-start-column="22" selection-end-line="167" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Salida/SalidaManual/SalidaSeleccionUbicacionFinal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="78" column="71" lean-forward="false" selection-start-line="78" selection-start-column="25" selection-end-line="78" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Salida/SalidaManual/SalidaSeleccionUbicacionFinalMedida.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-233">
+          <caret line="47" column="63" lean-forward="false" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Salida/SalidaManual/Operaciones/DescontarMaterialMedida.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="48" column="34" lean-forward="false" selection-start-line="48" selection-start-column="34" selection-end-line="48" selection-end-column="34" />
+          <folding>
+            <marker date="1520336284001" expanded="true" signature="4533:4717" ph="INSERT INTO historico... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Salida/SalidaManual/Operaciones/DescontarMaterial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="48" column="28" lean-forward="false" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="28" />
+          <folding>
+            <marker date="1520336291186" expanded="true" signature="4444:4628" ph="INSERT INTO historico... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Salida/SalidaManual/Operaciones/BorrarUbicacionVacia.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="171" column="17" lean-forward="false" selection-start-line="171" selection-start-column="17" selection-end-line="171" selection-end-column="43" />
+          <folding>
+            <marker date="1519369775520" expanded="true" signature="5277:5345" ph="DELETE FROM " />
+            <marker date="1519369775520" expanded="true" signature="6667:6851" ph="INSERT INTO historico... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Consulta/Articulo/ConsultaArticulo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="41" column="40" lean-forward="false" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Consulta/Articulo/ConsultaBusquedaArticulo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="27" column="52" lean-forward="false" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Consulta/Entablado/ConsultaEntablado.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="40" column="19" lean-forward="false" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Consulta/Entablado/ConsultaEntabladoCajaVacia.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-26">
+          <caret line="48" column="54" lean-forward="false" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Consulta/Articulo/Operaciones/BusquedaArticulosConsulta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="40" column="26" lean-forward="false" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Consulta/Entablado/ConsultaEntabladoCajaVaciaMedida.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-68">
+          <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Consulta/Entablado/ConsultaSeleccionEntablado.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Consulta/Entablado/Operaciones/ListarEntablados.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Consulta/Lanzaderas/ConsultaMaterialArmario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="22" column="51" lean-forward="false" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Consulta/Lanzaderas/ConsultaMaterialArmarioDetalle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="32" column="58" lean-forward="false" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Consulta/Lanzaderas/Operaciones/ListarLanzaderas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="36" column="42" lean-forward="false" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/oscasistemas/controller/Consulta/EliminarCajasVacias/ConsultaEliminarCajasVacias.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="37" column="61" lean-forward="true" selection-start-line="37" selection-start-column="61" selection-end-line="37" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/Entrada/EntradaManual/NuevaUbicacion/NuevaUbicacion.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="890" column="65" lean-forward="true" selection-start-line="890" selection-start-column="65" selection-end-line="890" selection-end-column="65" />
+          <folding>
+            <marker date="1520351237581" expanded="true" signature="28061:28073" ph="..." />
+            <marker date="1520351237581" expanded="true" signature="28174:28186" ph="..." />
+            <marker date="1520351237581" expanded="true" signature="34619:34751" ph="..." />
+            <marker date="1520351237581" expanded="true" signature="34964:35094" ph="..." />
+            <marker date="1520351237581" expanded="true" signature="37694:37823" ph="..." />
+            <marker date="1520351237581" expanded="true" signature="38085:38214" ph="..." />
+            <marker date="1520351237581" expanded="true" signature="38428:38539" ph="..." />
+            <marker date="1520351237581" expanded="true" signature="38650:38787" ph="..." />
+            <marker date="1520351237581" expanded="true" signature="39001:39112" ph="..." />
+            <marker date="1520351237581" expanded="true" signature="39223:39362" ph="..." />
+            <marker date="1520351237581" expanded="true" signature="42938:43050" ph="..." />
+            <marker date="1520351237581" expanded="true" signature="44211:44325" ph="..." />
+            <marker date="1520351237581" expanded="true" signature="47419:47548" ph="..." />
+            <marker date="1520351237581" expanded="true" signature="49891:50020" ph="..." />
+            <marker date="1520351237581" expanded="true" signature="51827:51956" ph="..." />
+            <marker date="1520351237581" expanded="true" signature="54401:54530" ph="..." />
+            <marker date="1520351237581" expanded="true" signature="58319:58448" ph="..." />
+            <marker date="1520351237581" expanded="true" signature="59943:60072" ph="..." />
+            <marker date="1520351237581" expanded="true" signature="60832:60961" ph="..." />
+            <marker date="1520351237581" expanded="true" signature="63190:63308" ph="..." />
+            <marker date="1520351237581" expanded="true" signature="63419:63565" ph="..." />
+            <marker date="1520351237581" expanded="true" signature="65936:66054" ph="..." />
+            <marker date="1520351237581" expanded="true" signature="66165:66313" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/Entrada/EntradaMaterial/EntradaPedido/NuevaUbicacion/PedidoNuevaUbicacion.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1368">
+          <caret line="977" column="81" lean-forward="false" selection-start-line="977" selection-start-column="81" selection-end-line="977" selection-end-column="81" />
+          <folding>
+            <marker date="1520351287179" expanded="true" signature="28901:28913" ph="..." />
+            <marker date="1520351287179" expanded="true" signature="29014:29026" ph="..." />
+            <marker date="1520351287179" expanded="true" signature="35577:35709" ph="..." />
+            <marker date="1520351287179" expanded="true" signature="35922:36052" ph="..." />
+            <marker date="1520351287179" expanded="true" signature="38652:38781" ph="..." />
+            <marker date="1520351287179" expanded="true" signature="39043:39172" ph="..." />
+            <marker date="1520351287179" expanded="true" signature="39386:39497" ph="..." />
+            <marker date="1520351287179" expanded="true" signature="39608:39745" ph="..." />
+            <marker date="1520351287179" expanded="true" signature="39959:40070" ph="..." />
+            <marker date="1520351287179" expanded="true" signature="40181:40320" ph="..." />
+            <marker date="1520351287179" expanded="true" signature="43860:43972" ph="..." />
+            <marker date="1520351287179" expanded="true" signature="45108:45222" ph="..." />
+            <marker date="1520351287179" expanded="true" signature="48254:48383" ph="..." />
+            <marker date="1520351287179" expanded="true" signature="50726:50855" ph="..." />
+            <marker date="1520351287179" expanded="true" signature="52662:52791" ph="..." />
+            <marker date="1520351287179" expanded="true" signature="55236:55365" ph="..." />
+            <marker date="1520351287179" expanded="true" signature="59154:59283" ph="..." />
+            <marker date="1520351287179" expanded="true" signature="60778:60907" ph="..." />
+            <marker date="1520351287179" expanded="true" signature="61667:61796" ph="..." />
+            <marker date="1520351287179" expanded="true" signature="64025:64143" ph="..." />
+            <marker date="1520351287179" expanded="true" signature="64254:64400" ph="..." />
+            <marker date="1520351287179" expanded="true" signature="66771:66889" ph="..." />
+            <marker date="1520351287179" expanded="true" signature="67000:67148" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>OscaWEBArmarios:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>OscaWEBArmarios</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

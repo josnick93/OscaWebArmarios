@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--suppress SpringInjectionValueConsistencyInspection -->
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:util="http://www.springframework.org/schema/util"
+       xmlns:c="http://www.springframework.org/schema/c"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-2.5.xsd
+       					   http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util-2.5.xsd">
+
+
+    <bean id="messageFactory" class="org.springframework.ws.soap.saaj.SaajSoapMessageFactory"/>
+
+    <!-- Plantilla para comunicarnos con el WS -->
+    <bean id="wsTemplate" class="org.springframework.ws.client.core.WebServiceTemplate">
+    <constructor-arg ref="messageFactory"/>
+    <property name="messageSender">
+        <bean class="org.springframework.ws.transport.http.HttpComponentsMessageSender">
+            <property name="credentials">
+                <bean class="org.apache.http.auth.UsernamePasswordCredentials" c:userName="oscasistemas" c:password="0sca.$istemas-2017" />
+            </property>
+        </bean>
+    </property>
+    <property name="defaultUri" value="http://192.168.2.6:7047"/>
+</bean>
+</beans>
